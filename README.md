@@ -13,7 +13,25 @@ We employ an HDEMG dataset for neuron spike detection and motor unit potential m
 Based on biological principles, we recognized that different Motor Units (MUs) possess unique peak characteristics. Therefore, the key to identifying different MUs lies in the detection and analysis of these peaks. 
 (Special thanks to TA Prakarsh for providing amazing instructions and hints!)
 
+## Process
+![steps](./design/process.png)
+
+## Result
+Optimization could be done in the future step.
+<!-- ![Steady](./steady_output.png) -->
+<div style="display: inline-block; width: 30%; text-align: left;">
+    Steady Force Spikes:
+</div>
+<div style="display: inline-block; width: 30%; text-align: center;">
+    Increasing I Force Spikes:
+</div>
+<div style="display: inline-block; width: 30%; text-align: right;">
+    Increasing II Force Spikes:
+</div>
+
+<img src="./result/steady_output.png" alt="Steady" width="290" height="1200"><img src="./result/increasing_1_output.png" alt="Steady" width="290" height="1200"><img src="./result/incr_2_output.png" alt="Steady" width="290" height="1200">
+
+
 ## Installation Instructions
-Ensure that Python 3.8 is installed. Then, install the required dependencies:
-```bash
-pip install numpy h5py scipy matplotlib tqdm sklearn fastdtw dtw-python
+Ensure that Python 3.8 is installed.
+
