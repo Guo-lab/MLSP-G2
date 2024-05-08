@@ -14,22 +14,17 @@ Based on biological principles, we recognized that different Motor Units (MUs) p
 (Special thanks to TA Prakarsh for providing amazing instructions and hints!)
 
 ## Process
-![steps](./design/process.png)
+![steps](./design/process_with_gray_bg.jpg)
 
 ## Result
 Optimization could be done in the future step.
 <!-- ![Steady](./steady_output.png) -->
-<div style="display: inline-block; width: 30%; text-align: left;">
-    Steady Force Spikes:
-</div>
 <div style="display: inline-block; width: 30%; text-align: center;">
-    Increasing I Force Spikes:
+    E.g. Increasing I Force Spikes:
 </div>
-<div style="display: inline-block; width: 30%; text-align: right;">
-    Increasing II Force Spikes:
-</div>
+<br>
 
-<img src="./result/steady_output.png" alt="Steady" width="290" height="1200"><img src="./result/increasing_1_output.png" alt="Steady" width="290" height="1200"><img src="./result/incr_2_output.png" alt="Steady" width="290" height="1200">
+<img src="./result/increasing_1_output.png" alt="Steady" width="290" height="1200">
 
 
 ## Installation Instructions
